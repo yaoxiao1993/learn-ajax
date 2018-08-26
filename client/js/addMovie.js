@@ -28,4 +28,3 @@ function getMovieData(formId){
     return movieData;
 }
 
-e.preventDefault();
