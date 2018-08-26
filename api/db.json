@@ -26,11 +26,19 @@
     },
     {
       "title": "一出好戏",
-      "post": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2529571873.jpg\"",
+      "post": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2529571873.jpg",
       "director": "黄渤",
       "score": "7.3",
       "date": "2018-08-10",
       "id": 4
+    },
+    {
+      "title": "1",
+      "post": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2529571873.jpg",
+      "director": "1",
+      "score": "1",
+      "date": "1",
+      "id": 5
     }
   ]
 }

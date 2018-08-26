@@ -5,3 +5,13 @@ img{max-width: 100%}
 .mPost img{margin-top:10px;width:128px}
 .mTitle{text-align: center}
 .mScore{font-size: 14px;color: #E9967A}
+button{
+    margin-right: 40px;
+    width: 160px;
+    height:30px;
+    background: #fff;
+    border: 2px solid salmon;
+    border-radius: 2px;
+    font-size: 20px;
+    color: salmon
+}

@@ -5,7 +5,7 @@ window.onload=function(){
         e.preventDefault();
         const movieData = getMovieData("addMovie");
         console.log(movieData)
-        axios.get('http://localhost:3000/movies')
+        axios.post('http://localhost:3000/movies', movieData)
             .then(function(response){
                 if(response.data){
                     alert("添加成功！");

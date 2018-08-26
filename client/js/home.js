@@ -7,7 +7,6 @@ window.onload = function(){
             movies.forEach(movie => {
                 let star = "★★★★★☆☆☆☆☆";
                 let rate = Math.round(movie.score/2);
-                console.log(star[5])
                 str += `
                 <li class="movieBox">
                     <div class="mPost">
@@ -16,7 +15,6 @@ window.onload = function(){
                     <div class="mTitle">${movie.title}</div>
                     <div class="mScore">${star.slice(5-rate, 10-rate)+movie.score} 分</div>
                 </li>`
-                console.log(star.slice(5-rate, 10-rate))
             });
         let moviesRow = document.getElementById("moviesRow")
         moviesRow.innerHTML += str;
