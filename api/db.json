@@ -1,0 +1,21 @@
+{
+    "movies":[
+        {
+            "id":1,
+            "title":"巨齿鲨",
+            "date":"2017-xx-xx",
+            "director":"姚小玉",
+            "score":9.5,
+            "post":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2530572643.jpg"
+        },
+        {
+            "id":2,
+            "title":"大师兄",
+            "date":"2017-xx-xx",
+            "director":"姚小玉",
+            "score":6.8,
+            "post":"https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2528842218.jpg"
+        }
+]
+
+}
